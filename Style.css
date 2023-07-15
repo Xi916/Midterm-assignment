@@ -1,0 +1,52 @@
+  
+    *{
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    div.container{
+      border: 5px solid #ffaaaa;
+      width: 90%;
+      margin: 0 auto;
+    }
+    header{
+      background-color: lavender;
+    }
+    div.hero{
+      border: 2px dotted lightcyan;
+      width: 49.8%;
+      display: inline-block;
+    }
+    div.left, div.middle, div.right{
+      border: 3px dotted thistle;
+      width: 33.1%;
+      display: inline-block;
+    }
+    aside img{
+      width: 100%;
+    }
+    main img{
+      width: 100%;
+    }
+    nav{
+      background-color: lightgoldenrodyellow;
+     }
+    
+     ul{
+      text-align: center;
+
+    }
+    li{
+      display: inline-block;
+      width: 200px;
+      border: 3px solid darkslateblue;
+      line-height: 3em;
+    }
+    a{
+      color: black;
+      text-decoration: none;
+      border: 2px solid rosybrown;
+      display: block;
+
+    }
+ 
